@@ -7,7 +7,7 @@
 			"name": "TOTVS Language Debug",
 			"program": "${command:AskForProgramName}",
 			"cwb": "${workspaceFolder}",
-			"smartclientBin": "../totvs/bin/smartclient/smartclient.exe",
+			"smartclientBin": "C:\\Smartclient2310\\smartclient.exe",
 			"isMultiSession": true,
 			"enableTableSync": true,
 			"extendFeatures": {
@@ -18,7 +18,10 @@
 	"lastPrograms": [
 		{
 			"label": "u_teste"
+		},
+		{
+			"label": "MenuDef"
 		}
 	],
-	"lastProgramExecuted": "u_teste"
+	"lastProgramExecuted": "MenuDef"
 }
