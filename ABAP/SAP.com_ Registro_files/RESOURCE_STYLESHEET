@@ -1,0 +1,7 @@
+﻿form#onbehalfupdateForm .iam-input-area > div:nth-of-type(1) > fieldset {
+  display: none;
+}
+
+section.ids-section {
+    display: none;
+}
